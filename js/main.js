@@ -7,3 +7,4 @@ var body = function Move(arms) {
 };
 
 var moreBS - function ALL of JAVASCRIPT;
+//if you can have moreBS I want allBS.
